@@ -1,0 +1,10 @@
+DOCUMENTO DI TRASPORTO
+DDT n. DDT-2026-001
+Data documento: 15/03/2026
+Fornitore: Fornitore Demo SRL
+Rif. ordine: ORD-7788
+
+Codice    Descrizione              Q.tà    U.M.
+ART-001   Vite M6 zincata          10      PZ
+ART-002   Guarnizione NBR          2,5     KG
+ART-003   Tubo PVC 20mm            3       M
